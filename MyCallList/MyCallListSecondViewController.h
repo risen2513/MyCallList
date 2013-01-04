@@ -1,0 +1,13 @@
+//
+//  MyCallListSecondViewController.h
+//  MyCallList
+//
+//  Created by Ri Sen on 13-1-4.
+//  Copyright (c) 2013年 RiSen. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MyCallListSecondViewController : UIViewController
+
+@end
